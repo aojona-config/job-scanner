@@ -1,0 +1,8 @@
+bucket:
+  bandwidthMap:
+    vacancy-scan-service:
+      capacity: 1800
+      period: PT60S
+    telegram-service:
+      capacity: 1800
+      period: PT60S

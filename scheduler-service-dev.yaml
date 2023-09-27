@@ -1,0 +1,10 @@
+scheduler:
+  vacancy-scan-tasks-cron: 15 * * * * *
+  analytics-tasks-cron: 45 * * * * *
+  batch-size: 1000
+
+request-task:
+  page-number: 3
+  custom-query-params:
+    per-page: 5
+    order-by: publication_time

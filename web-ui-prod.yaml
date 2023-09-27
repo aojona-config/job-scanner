@@ -1,0 +1,12 @@
+cookie:
+  remove-access-token:
+    name: access_token
+    path: /
+
+page:
+  request:
+    pageNumber: 0
+    pageSize: 10
+
+subscriptions:
+  limit: 3

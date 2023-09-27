@@ -1,0 +1,12 @@
+spring:
+  cache:
+    redis:
+      time-to-live: 24h
+
+redis:
+  time: 30
+  time-unit: days
+
+vacancy:
+  novelty-time: 24
+  unit: hours

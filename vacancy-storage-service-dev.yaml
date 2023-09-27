@@ -1,0 +1,12 @@
+spring:
+  cache:
+    redis:
+      time-to-live: 3d      # expiration time in cache, supported units: ns, us, ms, s, m, h, d
+
+redis:
+  time: 2                   # expiration time in db: must be more 0
+  time-unit: days           # unit of expiration time: milliseconds, seconds, minutes, hours or days
+
+vacancy:
+  novelty-time: 24
+  unit: hours

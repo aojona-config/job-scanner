@@ -1,0 +1,12 @@
+jwt:
+  access-key:
+    secret: ZGlzdGFuY2VkcmllZGNvdW50cnlsaWtlbHllaWdodGJyaWVmZmFzdGVyd2VyZXRhbms=
+    expiration-time: 14
+    expiration-unit: days
+    cookie-name: access_token
+
+search:
+  page: 0
+  size: 7
+  range: 14
+
