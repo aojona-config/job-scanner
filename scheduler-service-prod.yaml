@@ -4,7 +4,7 @@ scheduler:
   batch-size: 1000
 
 request-task:
-  page-number: 3
+  page-number: 20
   custom-query-params:
-    per-page: 5
+    per-page: 100
     order-by: publication_time
