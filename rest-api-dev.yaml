@@ -9,3 +9,4 @@ search:
   page: 0
   size: 7
   range: 14
+  max-subscription-length: 12
