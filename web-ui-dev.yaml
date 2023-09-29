@@ -9,4 +9,4 @@ page:
     pageSize: 3
 
 subscriptions:
-  limit: 3
+  limit: 4
